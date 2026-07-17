@@ -1,6 +1,5 @@
 # CPU, Memory & Buses — Notes
 
-
 ## Memory Types aur CPU ka basic kaam
 
 ### Volatile vs Non-Volatile Memory
@@ -51,7 +50,7 @@ Yeh poora cycle **Fetch → Decode → Execute** kehlata hai, jo CPU baar baar r
   - Phir **RAM** mein store hota hai,
   - Agar permanent save karna ho to aakhir mein **SSD** mein store ho jata hai.
 
-### Save karne ka example (Ctrl+S)
+### example (Ctrl+S)
 
 - Jab hum kisi **Word file** par kaam kar rahe hote hain Word file mein type karte hain →  data 
 abhi sirf RAM mein hai (temporary) hota hain
