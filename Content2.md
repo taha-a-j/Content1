@@ -1,4 +1,4 @@
-# CPU, Memory & Buses — Notes
+# CPU, Memory & Buses
 
 ## Memory Types aur CPU ka basic kaam
 
