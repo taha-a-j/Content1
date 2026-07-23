@@ -65,6 +65,9 @@ File mein likhne ke baad, save aur close karne ka tareeqa: `Ctrl + X` ,`Y`+`Ente
 
 `rm` **file ko delete** karne ke liye.
 
+`rm -r` **poora folder delete krny k liya** 
+rm -r se delete hui files trash/recycle bin mein nahi jaatin seedha permanently delete ho jaati hain. Isliye pehle **ls -la** se check kar lein chahiyan then `rm -r`.
+
 `rmdir` **khaali folder ko delete** karne ke liye.
 
 ## Summary
