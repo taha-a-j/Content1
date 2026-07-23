@@ -40,22 +40,36 @@ Yani simple lafzon mein: **har activity ka ek record system automatically bana l
 ## 3. Practical CLI Commands: File aur Folder Banana, Manage Karna
 
 `cd` folder ke andar jana mein jany k liya jahan hum apna kaam karenge.
+
 `mkdir Task` new folder bana.
+
 `cd Task` us naye banaye gaye "Task" folder ke andar le jati hai.
+
 `ls` file,folder list.
+
 `touch Task.txt` "Task.txt, Notes.txt,Bachup.txt etc" naam ki ek nayi khaali file banati hai.
+
 `ls` Dobara list check krna taake pata chale ke "Task.txt" file ban chuki hai ya nai.
-`cat Task.txt` file ka content terminal par dikhati hai. text ki form mai. `nano Task.txt` file ko **edit karne ke liye** kholti hai. Nano ek text editor hai jo terminal ke andar hi file mein likhne ki access deta hai.
+
+`cat Task.txt` file ka content terminal par dikhati hai. text ki form mai. `nano Task.txt` file ko **edit karne ke liye** kholti hai.
+Nano ek text editor hai jo terminal ke andar hi file mein likhne ki access deta hai.
 File mein likhne ke baad, save aur close karne ka tareeqa: `Ctrl + X` ,`Y`+`Enter`.
+
 `cat Task.txt` File content dekhny k liya.
+
 `ls -R` List dekhna 
-`cp` **(Copy)** kisi file ya folder ko **copy** karne ke liye use hoti hai,
+
+`cp` **(Copy)** kisi file ya folder ko **copy** karne ke liye use hoti hai.
+
 `mv` **(Move)** kisi file ya folder ko **ek jagah se doosri jagah move** karne ke liye use hoti hai. Ye file ka **naam change (rename)** karne ke liye bhi use hoti hai.
+
 `rm` **file ko delete** karne ke liye.
+
 `rmdir` **khaali folder ko delete** karne ke liye.
 
 ## Summary
 
-- **Root level** system ki full/highest access hoti hai, jabke **user level** limited access hoti hai. Normal user `sudo` command se temporarily root access le sakta hai, aur `sudo -i` se poori tarah root user ban sakta hai. Wapis normal user par jane ke liye `exit` use hota hai.
+- **Root level** system ki full/highest access hoti hai, jabke **user level** limited access hoti hai.
+- Normal user `sudo` command se temporarily root access le sakta hai, aur `sudo -i` se poori tarah root user ban sakta hai. Wapis normal user par jane ke liye `exit` use hota hai.
 
-- **Logs** wo records hote hain jo har activity (chahe file delete hi kyun na ho) ko save kar lete hain, aur ye encrypted form mein "var" location mein store hote hain — inhe delete karna mumkin nahi hota, sirf decrypt kar ke wapis dekha ja sakta hai.
+- **Logs** wo records hote hain jo har activity (chahe file delete hi kyun na ho) ko save kar lete hain, aur ye encrypted form mein "var" location mein store hote hain inhe delete karna mumkin nahi hota, sirf decrypt kar ke wapis dekha ja sakta hai.
