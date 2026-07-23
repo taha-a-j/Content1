@@ -37,7 +37,7 @@ Agar aap apne **mobile phone par koi bhi activity/action perform karte hain** ja
 
 Yani simple lafzon mein: **har activity ka ek record system automatically bana leta hai**, chahe user ne wo data delete bhi kar diya ho asal record (log) phir bhi kahin na kahin save reh jata hai.
 
-## 3. Practical CLI Commands: File aur Folder Banana, Manage Karna
+## 3. CLI Commands: File && Folder, Manage Karna
 
 `cd` folder ke andar jana mein jany k liya jahan hum apna kaam karenge.
 
