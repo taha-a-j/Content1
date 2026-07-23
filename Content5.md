@@ -3,7 +3,7 @@
 ## 1. Root Level aur User Level
 **Root Level** aur **User Level** do alag tarah ki access permissions hoti hain kisi bhi Linux/Unix based system mein.
 
-**Root Level** system ka sabse basic aur sabse powerful level hai — ye **pure system par full access** deta hai. Root level par wo tamam kaam kiye ja sakte hain jo ek **normal user perform nahi kar sakta**, jaise system files change karna, naye users banana, permissions set karna, ya system-level settings modify karna. 
+**Root Level** system ka sabse basic aur sabse powerful level hai ye **pure system par full access** deta hai. Root level par wo tamam kaam kiye ja sakte hain jo ek **normal user perform nahi kar sakta**, jaise system files change karna, naye users banana, permissions set karna, ya system-level settings modify karna. 
 
 **User Level** ek normal user ki access hoti hai, jismein limited permissions hoti hain taake system secure rahe aur koi aam user galti se important system files ko access na kry. 
 
