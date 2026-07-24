@@ -1,4 +1,4 @@
-# Root Level, User Level, Logs aur Practical CLI Commands
+# Root Level, User Level, Logs && CLI Commands
 
 ## 1. Root Level aur User Level
 **Root Level** aur **User Level** do alag tarah ki access permissions hoti hain kisi bhi Linux/Unix based system mein.
