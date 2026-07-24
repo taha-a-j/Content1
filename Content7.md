@@ -1,4 +1,4 @@
-# File Type Detection, Hidden Files aur Session Key
+# File Type Detection, Hidden Files && Session Key
 
 ## 1. File Type Pata Karna `file` Command
 
