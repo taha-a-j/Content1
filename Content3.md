@@ -3,7 +3,7 @@
 **CPU** = Central Processing Unit
  CPU ek human ki tarah hai, jisko koi task diya jata hai. Ye computer ka "brain" hota hai ye har instruction ko execute (perform) karta hai. Jaise insaan sochta hai aur decision leta hai, waise hi CPU calculations aur instructions ko process karta hai. CPU ke andar bhi chote parts hote hain jaise **ALU** (Arithmetic Logic Unit) (jo calculations/logic karta hai) aur **CU** (Control Unit) (jo instructions ko manage karta hai).  
 
-**OS's Working:**
+**OS's Working:** 
 OS = Operating System. Computer sirf **binary language** (0 aur 1) samajhta hai. Insaan ki normal language (English, Urdu) nahi samajh sakta. Isliye OS ek **translator/middleman** ka kaam karta hai. Ye humari commands (jab hum mouse click karte hain ya app open karte hain) ko binary (zero, one) mein convert karke CPU/hardware tak pohanchata hai, aur wapis result ko humein samajh aane wali form mein screen par dikhata hai.  
 
 Simple words mein: **OS = hardware aur user/software ke beech ka pul (bridge).** Bina OS ke, koi bhi application chalna mushkil hai actually bina OS ke computer bilkul use hi nahi ho sakta, ku ki hardware ko control karne wala koi nahi hoga.
