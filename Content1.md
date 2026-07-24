@@ -8,7 +8,7 @@
 ## 2. Internal parts kya karte hain
 
 - Data: Raw information jo computer process karta hai
-- RAM: Temporary memory, sirf tab tak jab computer ON ho
+- RAM: Temporary memory, sirf tab tak jab computer ON ho 
 - ROM: Permanent memory, computer start karne ki fixed instructions
 - Input: Data andar aata hai (keyboard, mouse)
 - Output: Result dikhta hai (screen, printer)
