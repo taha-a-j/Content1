@@ -14,7 +14,7 @@
 - CPU RAM ko task **assign** karta hai, aur RAM aage SSD se related kaam karti hai.
 - Yeh sara process direct nahi hota — beech mein CPU ki speed aur **cache** ka role hota hai, jo cheezon ko fast karta hai.
 
-### Buses (CPU aur RAM k darmiyan lines)
+### Buses (CPU aur RAM k darmiyan lines) 
 
 - CPU aur RAM k darmiyan data **bus** k zariye travel karta hai (bus ek "rasta" hai jahan se data guzarta hai).
 - CPU aur RAM k darmiyan total **3 lines (buses)** hoti hain:
