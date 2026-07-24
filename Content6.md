@@ -1,4 +1,4 @@
-# File Reading Commands, Echo aur Redirection
+# File Reading Commands, Echo && Redirection
 
 ## 1. File ko Read Karna
 
